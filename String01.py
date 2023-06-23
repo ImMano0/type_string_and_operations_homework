@@ -5,4 +5,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    return  "a"*8
+
+
+print(main())
